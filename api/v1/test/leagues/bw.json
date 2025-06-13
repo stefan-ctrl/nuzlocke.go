@@ -3,7 +3,8 @@
     "name": "Chili, Cress or Cilan",
     "speciality": "",
     "img": "/leaders/blwh-ccc",
-    "pokemon": [
+    "pokemon":
+    [
       {
         "name": "lillipup",
         "level": "12",
