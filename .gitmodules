@@ -1,0 +1,3 @@
+[submodule "nuzlocke.data"]
+	path = nuzlocke.data
+	url = https://github.com/stefan-ctrl/nuzlocke.data
